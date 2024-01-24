@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/fone">
+        <file>secwin.jpg</file>
+        <file>fwinjpg.jpg</file>
+    </qresource>
+</RCC>
